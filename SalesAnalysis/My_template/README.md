@@ -1,3 +1,5 @@
+Here is simple electronic`s sales analysis.
+
 What was done:
 
 1) cleaned the data (Dropped NaN values from DataFrame, 
@@ -17,8 +19,5 @@ As a result here are my conclusions:
 - To my mind, the most suitable time is before 11 a.m. or earlier (like 7 a.m.)
 - 'iPhone' and 'Lightning Charging Cable' is a pair of the most often sold products together. The rarelier pairs are:
 'Google Phone'  + 'USB-C Charging Cable' and 'iPhone', 'Wired Headphones'.
-
-
-
 
 
